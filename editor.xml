@@ -1,0 +1,5 @@
+<application>
+  <component name="JsonEditorOptions">
+    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
+  </component>
+</application>
