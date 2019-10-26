@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="tostring" value="std::to_string($SELECTION$)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OC_EXPRESSION_C" value="true" />
+      <option name="OC_EXPRESSION_CPP" value="true" />
+    </context>
+  </template>
+</templateSet>

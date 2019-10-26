@@ -1,6 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
@@ -12,8 +13,16 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorJoinLines" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
@@ -22,16 +31,28 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoNextError" />
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="ctrl alt home" />
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="InsertLiveTemplate" />
   <action id="Macro.Save and reformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -63,6 +84,9 @@
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
