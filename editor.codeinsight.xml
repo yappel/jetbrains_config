@@ -6,4 +6,7 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
