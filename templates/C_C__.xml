@@ -1,0 +1,7 @@
+<templateSet group="C/C++">
+  <template name="uint64" value="uint64_t" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
