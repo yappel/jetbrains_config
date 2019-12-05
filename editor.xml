@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
   <component name="JsonEditorOptions">
     <option name="AUTO_QUOTE_PROP_NAME" value="false" />
   </component>
