@@ -7,7 +7,13 @@
   <action id="CodeInspection.OnEditor" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
@@ -106,6 +112,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt home" />
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
   <action id="Macro.Save and reformat">
@@ -134,6 +141,10 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SelectNextOccurrence">
