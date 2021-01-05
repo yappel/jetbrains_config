@@ -11,6 +11,23 @@
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="debugger.new.debug.tool.window.view" value="true" />
+    <entry key="debugger.show.values.use.inlays" value="false" />
+    <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
+    <entry key="rdclient.asyncActions" value="false" />
+    <entry key="ide.svg.icon" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
+    <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
+    <entry key="light.edit.file.open.enabled" value="false" />
+    <entry key="use.tabbed.welcome.screen" value="false" />
+    <entry key="ide.new.project.model" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
